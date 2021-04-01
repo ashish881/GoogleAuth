@@ -4,7 +4,7 @@ Google Authentication.
 
 # Installation
 
-`npm i googleSignIn --save`
+`npm i googleauths --save`
 
 Then...
 
