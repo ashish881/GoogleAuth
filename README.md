@@ -8,4 +8,4 @@ Google Authentication.
 
 Then...
 
-import { OnSignIn } from 'onSignIn';
+import { onSignIn } from 'onSignIn';
